@@ -27,4 +27,4 @@
 ## 🛠️ Technical Implementation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/supermarket-sales-analysis.git
+[git clone https://github.com/yourusername/supermarket-sales-analysis.git](https://github.com/MuhammadHassan667/supermarket-sales-analysis/tree/main)
